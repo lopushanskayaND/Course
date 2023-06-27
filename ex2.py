@@ -1,0 +1,13 @@
+print ("Введите последовательно название этапов развития человека")
+print ('1.', end = '')
+n1 = input()
+print ('2.', end = '')
+n2 = input()
+print ('3.', end = '')
+n3 = input()
+print ('4.', end = '')
+n4 = input()
+print ('5.', end = '')
+n5 = input()
+print (n1, '=>',n2, '=>',n3, '=>',n4, '=>',n5)
+
