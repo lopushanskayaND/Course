@@ -1,0 +1,7 @@
+print ("Укажите вид питомца")
+vid = input()
+print ("Его возраст")
+vozr = input()
+print ("Кличка")
+name = input()
+print ("Это",vid,"по кличке", name+'.', "Возраст:", vozr, "года.")
